@@ -4,4 +4,4 @@ layout: categories
 permalink: /categories/
 author_profile: true
 ---
-## Vai a [Posts](/year-archive/)
+## Vai a [Attività](/year-archive/)

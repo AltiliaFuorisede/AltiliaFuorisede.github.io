@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Posts"
+  - title: "Attività"
     url: /year-archive/
-  - title: "About"
+  - title: "Chi siamo?"
     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
