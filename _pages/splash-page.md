@@ -5,8 +5,8 @@ permalink: /
 date: 2021-12-12T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 225, 0.5))
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.2), rgba(0, 255, 225, 0.2))
+  overlay_image: /assets/images/unsplash-image-7.jpg
   actions:
   - url: "/about/"
 excerpt: "Circolo Arci di Altilia (kr)"
